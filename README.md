@@ -1,4 +1,4 @@
-### hitachi zosen
+### hitachi
 
 https://github.com/Hitachi
 
